@@ -1,4 +1,5 @@
-![PRÉVIA (5)](https://github.com/camilyolivei/site-landing-page/assets/120147200/94e32132-2776-4b50-a998-ae1cffb276ef)
+
+![previa-7](https://github.com/camilyolivei/site-landing-page/assets/120147200/34341037-4002-45e1-adb0-8462ae191073)
 
 
 - [Visualizar site completo](https://camilyolivei.github.io/site-landing-page/)<br/>
